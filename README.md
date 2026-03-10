@@ -1,14 +1,14 @@
-# PicoCTF Writeups
+﻿# PicoCTF Writeups
 
 Welcome to my personal collection of PicoCTF challenge writeups. You can find detailed explanations and instructions on how I solved these challenges.
 
-## ?? Forensics
+## 🔎 Forensics
 
 * [DISKO 1](Forensics/DISKO%201/DISKO_1.md)
 * [Glory of the Garden](Forensics/Glory%20of%20the%20Garden/Glory%20of%20the%20Garden.md)
 * [Riddle Registry](Forensics/Riddle%20Registry/Riddle%20Registry.md)
 
-## ?? Web Exploitation
+## 🌐 Web Exploitation
 
 * [3v@l](Web%20Exploitation/3v@l/3v@l.md)
 * [Byp4ss3d](Web%20Exploitation/Byp4ss3d/byp4ss3d1.md)
